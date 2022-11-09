@@ -1,7 +1,7 @@
-id=AH-havoc
-name=Havoc lock-unlock sounds
+id=OC-fork-AH-havoc
+name=Havoc lock/unlock sounds for Android 10+
 version=v1
 versionCode=1
-author=aritzherrero4
+author=aritzherrero4 and onyxcode
 description=Replace system lock and unlock sounds with the ones integrated on HAVOC
 minMagisk=1500

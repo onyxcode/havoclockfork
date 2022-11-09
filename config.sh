@@ -40,9 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "   Havoc lock-unlock sounds    "
-  ui_print "*******************************"
+  ui_print "**************************************"
+  ui_print "          Havoc lock/unlock sounds            "
+  ui_print "        Original mod by aritzherrero4        "
+  ui_print " Forked for Android 10+ by onyxcode "
+  ui_print "**************************************"
 }
 
 ##########################################################################################
@@ -96,4 +98,3 @@ set_permissions() {
 # update-binary. Refrain from adding code directly into update-binary, as it will make it
 # difficult for you to migrate your modules to newer template versions.
 # Make update-binary as clean as possible, try to only do function calls in it.
-
